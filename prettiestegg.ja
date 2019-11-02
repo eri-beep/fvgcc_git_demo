@@ -1,6 +1,8 @@
 public void starburst()
 [
 //something to put in image file here i don't remember the code for it
+//new image = image.get();
+//????????? what
 int height = image.getHeight();
 int width = image.getWidth();
 for (int x; x < height - 1 ; x++)
